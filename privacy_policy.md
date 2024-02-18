@@ -10,7 +10,7 @@ We do not collect any personal information about you during the use of our appli
 
 ## Use of Information
 
-We do not use any personal information from users for any purpose.
+The Odontometry app may request permission to access images from your device's gallery. By granting this permission, you allow us to access the images only during the session in which the app is in use. If you close and reopen the app, we will no longer have access to those images unless you provide permission again.
 
 ## Features
 
